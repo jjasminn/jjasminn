@@ -1,10 +1,12 @@
--  I’m @jjasminn 21
--  I'm a student in Yildiz Technical University and my departman is computer engineering.
--  Thanks to my collage i learned about c , java and fundamentals of software languages.
--  I improved myself in python software language and I want to be advance in python.
--  I’m currently learning Flutter for developing mobile applications.
--  I have interest on cyber security and trying to look for it too.
--  My email is atmacayasemin25@outlook.com.
--  I'm a member of SkyLab Mobile Project Team
+-  Hi
+-   I'm studying Computer Engineering at Yıldız Technical University
+-   Thanks to the trainings given at our university, I learned software languages ​​such as C Java Assembly.
+-   I learned Python language through courses and I am proficient in known libraries such as flask, django, numpy, matplotlib
+-   I also had a chance to learn cyber security thanks to Udemy courses.
+-   I’m currently learning Flutter for developing mobile applications.
+-   I'm a member of SkyLab Mobile Project Team, my team and I are finalists in the Teknofest competition right now.
+
+
+
 
 
